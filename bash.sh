@@ -1,1 +1,1 @@
-echo "<h1>testing probuild + build</h1>" > index.html
+echo "<h1>testing probuild  + build [version 2]</h1>" > index.html
